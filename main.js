@@ -1,29 +1,51 @@
-// // alert ('test')
-// // alert('arthur e ana clara')
-// function soma(num1, num2) {
-//     return num1 + num2;
+// alert ('Arthur e ANA')
+// function soma(num1,num2){
+// return num1+num2;
 // }
-// console.log(soma(3, 5));
-// function areaquadrado(lado) {
-//     return lado ** 2;
-// }
-// console.log(areaquadrado(5));
+// soma (2,3);
+// console.log (soma(1,2));
 
-// let areatriangulo = function (base, altura) {
-//     return (base * altura)/2;
-// }
-// console.log(areaquadrado(5, 5));
+// function areaQuadrado(lado){
+//     return lado**2;
 
-// let nome= parseInt(prompt('qual é seu numero?'));
-// let nome2= parseInt(prompt('qual é seu numero'));
-// let nome3= parseInt(prompt('numero do responsavel'));
-// Function Media(valor1, valor2, valor3){
-// return (valor1+valor2+valor3)/3;
 // }
+// console.log(areaQuadrado(5));
+// let areaTriangulo = function(base,altura){
+//     return (base*altura)/2;
+// }
+// console.log(areaTriangulo(5,5));
 
-let estado=['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Distrito Federal', 'Espírito Santo', 'Goiás', 'Maranhão', 'Mato Grosso', 'Mato Grosso do Sul', 'Minas Gerais', 'Pará', 'Paraíba', 'Paraná', 'Pernambuco', 'Piauí', 'Rio de Janeiro', 'Rio Grande do Norte', 'Rio Grande do Sul', 'Rondônia', 'Roraima', 'Santa Catarina', 'São Paulo', 'Sergipe', 'Tocantins']
-let i=0
-while( i<estado.length){
-console.log(i)
-i=(i+1)
+// let areaTrapezio=function(basemaior, basemenor, altura) {
+//     return (basemaior+basemenor)*altura/2;
+    
+//     }
+//     console.log(areaTrapezio(19,10,5));
+    
+    
+//     let chuan-prompt('Escolha 3 Hómeros para obter uma médios');
+//     document.write('1,2,3');
+//     let numi parseInt(prompt('1'));
+//     let num2 parseInt(prompt('2'));
+//     let numa parseInt(prompt('3'));
+    
+//     function media(x,y,z){
+//     return(x+y+z)/3}
+//     )
+    
+//     document.write(media(numa,num2,num3));
+    
+//     let estado= ['Paraná', 'São Paulo', 'Minas Gerais', 'Rio de Janeiro']
+
+//     let i = 0;
+//     while ( i < 10); {
+//         console.log(i);
+//         i = (+1);
+//     }
+
+let idade = PARSEINT(prompt('qual a sua idade?'))
+if (idade>17){
+    console.log('já pode dirigir');
+}
+else{
+    console.log('ilegal dirigir');
 }
