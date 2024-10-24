@@ -56,3 +56,9 @@ margin: 1rem;
     padding: 2rem;    
     font-size: 1.4vw;
 }
+
+.pergunta-cartao, resposta-cartao{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
