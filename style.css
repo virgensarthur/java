@@ -72,3 +72,7 @@ margin: 1rem;
     width: 100%;
     backface-visibility: hidden;
 }
+
+.resposta-cartao{
+    transform: rotateY(180deg);
+}
