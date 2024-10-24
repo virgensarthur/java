@@ -75,4 +75,5 @@ margin: 1rem;
 
 .resposta-cartao{
     transform: rotateY(180deg);
+    background-color: #e6dede;
 }
