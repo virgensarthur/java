@@ -39,7 +39,7 @@ margin: 1rem;
 .conteudo-cartao{
     background-color: rgb(255, 255, 255);
     height: 100%;
-    color: #ffffff;
+    color: #000000;
     text-align: center;
     transform-style: preserve-3d;
     transition: tranform 300ms ease-in-out;
