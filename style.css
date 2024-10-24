@@ -39,6 +39,10 @@ margin: 1rem;
 .conteudo-cartao{
     background-color: rgb(255, 255, 255);
     height: 100%;
+    color: #ffffff;
+    text-align: center;
+    transform-style: preserve-3d;
+    transition: tranform 300ms
 }
 
 .conteudo-cartao h3{
@@ -49,6 +53,7 @@ margin: 1rem;
     padding: 0.6rem;
     font-size: 1.2vw;
     border-radius: 0.6rem;
+    backface-visibility: hidden;
 }
 
 .conteudo-cartao p{
