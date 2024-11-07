@@ -15,3 +15,7 @@ function criacartao(categoria, pergunta, resposta) {
     `
     container.appendChild(cartao);
 }
+
+    function mostraresposta (){
+        const resposta = document.querySelector('.resposta-cartao')
+    }
