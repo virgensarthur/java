@@ -1,4 +1,4 @@
-criaCartao(
+    criaCartao(
     'História - Getúlio Vargas',
     'Qual foi o principal objetivo da Revolução de 1930 liderada por Getúlio Vargas?',
     'Derrubar o governo oligárquico e instaurar um governo centralizado no Brasil.'
