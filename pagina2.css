@@ -40,8 +40,8 @@ footer {
 }
 
 .cartao{
-    background-color: var(--cor-frente);
-    color: var(--branco);
+    background-color: var(--branco);
+    color: var(--preto);
     padding: 40px;
     box-shadow: 5px 5px 23px var(--preto);
     cursor: pointer;
@@ -51,6 +51,7 @@ footer {
     transform: scale(1.04);
 }
 .resposta-cartao{
+    color: var(--preto);
     background-color: #e6dede;
     padding: 40px;
     display: none;
